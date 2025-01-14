@@ -1,2 +1,3 @@
-# Absorb_and_CD
+# Absorb and CD
+
 Calculation of absorb and circular dichroism.
