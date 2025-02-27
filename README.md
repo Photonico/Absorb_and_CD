@@ -2,4 +2,6 @@
 
 Calculation of absorb and circular dichroism.
 
-Feb 2025
+March 2025
+
+Lu Niu
