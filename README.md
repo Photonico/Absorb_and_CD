@@ -1,4 +1,4 @@
-# Absorb and CD
+# Absorb and circular dichroism
 
 Calculation of absorb and circular dichroism.
 
