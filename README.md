@@ -2,6 +2,6 @@
 
 Calculation of absorb and circular dichroism.
 
-March 2025
+Feb. 2025
 
-Lu Niu
+Lu Niu (<lukeniu@outlook.com>)
