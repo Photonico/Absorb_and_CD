@@ -7,6 +7,10 @@ Currently, the model of this literature is still very crude.
 * Monomer resonance energy
 Each molecule is assumed to have a fixed excitation energy (ħω0), which forms the diagonal elements of the Hamiltonian.
 
+* Dipole coupling
+The model uses the point-dipole approximation to calculate the interaction between molecules;
+The geometrical dipole coupling factor is G_ij.
+
 ## Interactions not included
 
 * Environment field interaction
