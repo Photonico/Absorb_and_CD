@@ -1,0 +1,14 @@
+#### Development
+
+Currently, the model of this literature is still very crude.
+
+## Interactions included
+
+* Monomer resonance energy
+Each molecule is assumed to have a fixed excitation energy (ħω0), which forms the diagonal elements of the Hamiltonian.
+
+## Interactions not included
+
+* Environment field interaction
+
+* 
