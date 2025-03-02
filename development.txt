@@ -16,5 +16,18 @@ The geometrical dipole coupling factor is G_ij.
 * Environment field interaction
 
 * Short-range exchange interactions
+When molecules are very close, electronic wavefunction overlap can lead to exchange interactions.
+These are not captured by the point-dipole approximation.
 
 * Higher-order multipole effects
+In addition to dipole coupling interactions, higher-order contributions such as quadrupole or magnetic dipole interactions might play a role in the coupling,
+especially in systems with complex charge distributions.
+
+* Electron–phonon coupling
+Vibrational effects can modulate the energy levels and broaden the spectral lines.
+Including electron–phonon interactions would provide a more realistic description of the optical spectra.
+
+* Static and dynamic disorder
+Real systems often exhibit disorder in molecular positions, orientations, and energies.
+Incorporating disorder can account for inhomogeneous broadening and localization effects in the exciton states.
+s
