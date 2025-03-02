@@ -15,4 +15,6 @@ The geometrical dipole coupling factor is G_ij.
 
 * Environment field interaction
 
-* 
+* Short-range exchange interactions
+
+* Higher-order multipole effects
