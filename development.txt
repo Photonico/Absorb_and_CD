@@ -30,4 +30,3 @@ Including electron–phonon interactions would provide a more realistic descript
 * Static and dynamic disorder
 Real systems often exhibit disorder in molecular positions, orientations, and energies.
 Incorporating disorder can account for inhomogeneous broadening and localization effects in the exciton states.
-s
